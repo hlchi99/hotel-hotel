@@ -1,0 +1,7 @@
+{
+  "name": "Zalo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
